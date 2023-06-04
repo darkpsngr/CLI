@@ -1,13 +1,4 @@
-#%Catalog Descriptor 1.0
-triggerConditions: 
-  version:
-    - 1.0.1
-
-versionStrategyConditions:
-  minorIncrease:
-    branches:
-      - main
-      
+#%Catalog Descriptor 1.0      
 projects:
   - main: HelloWorld.raml
     assetId: hello-world

@@ -1,4 +1,4 @@
-#%Catalog Descriptor 1.0      
+#%Catalog Descriptor 1.0
 projects:
   - main: HelloWorld.raml
     assetId: hello-world

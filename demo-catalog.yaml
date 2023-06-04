@@ -1,11 +1,11 @@
 #%Catalog Descriptor 1.0
 triggerConditions: 
-  branches:
+  ref:
     - main
 
 versionStrategyConditions:
   minorIncrease:
-    branches:
+    ref:
       - main
       
 projects:
